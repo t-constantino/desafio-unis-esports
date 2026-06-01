@@ -98,10 +98,10 @@ As partidas serão acompanhadas pela equipe organizadora para garantir um ambien
 
 Tabela de Punições:
 
-*__Leve: Advertência formal__ - Comportamento desrespeitoso isolado, atraso sem justificativa. Registrada no sistema; reincidência resulta em punição maior.
-*__Grave: Desclassificação da partida__ - Uso de macro, abandono intencional ou manipulação de resultado. A vitória é concedida automaticamente ao adversário.
-*__Gravíssimo: Eliminação do torneio__ - Uso de cheats/hacks confirmados ou conduta gravemente ofensiva. Sem possibilidade de recurso na edição corrente.
-*__Recorrente: Banimento permanente__ — Infração gravíssima reincidente ou tentativa de corrupção de resultados. Impedimento de participar de futuras edições do Unis eSports.
+* __Leve: Advertência formal__ - Comportamento desrespeitoso isolado, atraso sem justificativa. Registrada no sistema; reincidência resulta em punição maior.
+* __Grave: Desclassificação da partida__ - Uso de macro, abandono intencional ou manipulação de resultado. A vitória é concedida automaticamente ao adversário.
+* __Gravíssimo: Eliminação do torneio__ - Uso de cheats/hacks confirmados ou conduta gravemente ofensiva. Sem possibilidade de recurso na edição corrente.
+* __Recorrente: Banimento permanente__ — Infração gravíssima reincidente ou tentativa de corrupção de resultados. Impedimento de participar de futuras edições do Unis eSports.
 
 Canal oficial para denúncias anônimas e seguras: __robson.santos@professor.unis.edu.br__
 
