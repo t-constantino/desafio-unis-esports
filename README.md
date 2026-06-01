@@ -97,13 +97,14 @@ As partidas serão acompanhadas pela equipe organizadora para garantir um ambien
 
 ## Falhas Técnicas
 
-Caso ocorram problemas relacionados a:
+Caso ocorram problemas que comprometam a igualdade da competição relacionados a:
 
 * Conexão Wi-Fi disponibilizada pela instituição;
 * Instabilidade da rede durante a partida;
-* Problemas técnicos que comprometam a igualdade da competição;
+* Funcionamento dos dispositivos dos jogadores;
 
 A partida poderá ser interrompida e reiniciada pela organização sempre que necessário.
+O prazo para a contestação dos resultados de uma partida será de 10 minutos após o fim da mesma.
 
 ---
 
