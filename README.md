@@ -28,7 +28,7 @@ Além da competição, o evento busca conscientizar os participantes sobre temas
 
 As inscrições serão realizadas através do portal:
 
-*unisesports.com.br*
+<*unisesports.com.br*>
 
 As equipes deverão ser formadas previamente pelos próprios participantes.
 
