@@ -16,3 +16,7 @@ A secundária segue sendo: Montserrat.
 * Criação de artes promocionais para divulgação do evento, campeonatos, palestras educacionais.
 * Planejamento e execução do cronograma de publicações nas redes sociais de pelo menos 1 postagem a cada 3 dias, nessa reta final aumentando as publicações.
 * Gestão do perfil no Instagram, com produção de conteúdo voltado ao público gamer, estudantes e familiares.
+
+# Alcance das redes sociais
+
+!(comunicação/alcance.jpeg)
