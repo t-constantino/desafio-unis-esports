@@ -20,4 +20,4 @@ A secundária segue sendo: Montserrat.
 # Alcance das redes sociais
 
 Disponível em:
-([comunicação/alcance.jpeg](https://github.com/t-constantino/desafio-unis-esports/blob/main/comunica%C3%A7%C3%A3o/alcance.jpeg))
+[comunicação/alcance.jpeg](https://github.com/t-constantino/desafio-unis-esports/blob/main/comunica%C3%A7%C3%A3o/alcance.jpeg)
