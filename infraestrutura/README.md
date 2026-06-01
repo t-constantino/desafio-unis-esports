@@ -30,6 +30,6 @@ Este documento reúne as ações realizadas e serviços entregues pela equipe de
 * Configuração dos registros DNS necessários para o funcionamento do portal.
 * Permissões técnicas concedidas para facilitar a manutenção e futuras atualizações.
 
-# Resultado
+## Resultado
 
 A infraestrutura disponibilizada garantiu um ambiente estável, seguro e preparado para atender as necessidades do Desafio Unis eSports.
