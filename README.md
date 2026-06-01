@@ -73,7 +73,7 @@ Serão realizadas palestras multidisciplinares abordando temas como:
 
 O campeonato será realizado utilizando o jogo Free Fire.
 
-Participarão representantes de até 8 escolas convidadas.
+Participarão representantes de, no mínimo, 8 escolas convidadas.
 
 ## Formato da Competição
 
@@ -112,6 +112,19 @@ A partida poderá ser interrompida e reiniciada pela organização sempre que ne
 Equipe Campeã
 
 * R$ 1.000,00 em premiação.
+* 4 medalhas
+* 1 troféu
+
+Equipe em Segundo Lugar
+
+* R$ 500,00 em premiação.
+* 4 medalhas
+* 1 troféu
+
+Equipe em Terceiro Lugar
+
+* 4 medalhas
+* 1 troféu
 
 ---
 
