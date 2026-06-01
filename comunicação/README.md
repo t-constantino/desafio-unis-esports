@@ -1,4 +1,4 @@
-# Desenvolvimento da identidade visual
+## Desenvolvimento da identidade visual
 
 A indentidade visual do projeto manteve padrão gráfico alinhado à proposta do Desafio Unis eSports.
 Foi desenvolvida com as artes seguindo a cor branca: #F0F0F8.
@@ -11,13 +11,13 @@ Preto secundário: #121826
 Fonte principal: Monument Extended Family
 A secundária segue sendo: Montserrat.
 
-# Execução e promoção
+## Execução e promoção
 
 * Criação de artes promocionais para divulgação do evento, campeonatos, palestras educacionais.
 * Planejamento e execução do cronograma de publicações nas redes sociais de pelo menos 1 postagem a cada 3 dias, nessa reta final aumentando as publicações.
 * Gestão do perfil no Instagram, com produção de conteúdo voltado ao público gamer, estudantes e familiares.
 
-# Alcance das redes sociais
+## Alcance das redes sociais
 
 Disponível em:
 [comunicação/alcance.jpeg](https://github.com/t-constantino/desafio-unis-esports/blob/main/comunica%C3%A7%C3%A3o/alcance.jpeg)
