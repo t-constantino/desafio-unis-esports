@@ -1,8 +1,8 @@
-#  Desafio UNIS eSports 2026
+#  Desafio Unis eSports 2026
 
 ## Sobre o Projeto
 
-O Desafio UNIS eSports 2026 é uma iniciativa acadêmica desenvolvida pelos estudantes da Faculdade UNIS com o objetivo de promover a integração entre tecnologia, educação e esportes eletrônicos.
+O Desafio Unis eSports 2026 é uma iniciativa acadêmica desenvolvida pelos estudantes da Faculdade Unis com o objetivo de promover a integração entre tecnologia, educação e esportes eletrônicos.
 
 Além da competição, o evento busca conscientizar os participantes sobre temas relacionados à segurança digital, bem-estar, educação e tecnologia, por meio de palestras e atividades interativas.
 
@@ -24,7 +24,7 @@ Além da competição, o evento busca conscientizar os participantes sobre temas
 
 *Horário:* 09h00 às 12h00
 
- *Local:* Faculdade UNIS
+ *Local:* Faculdade Unis
 
 As inscrições serão realizadas através do portal:
 
@@ -79,7 +79,7 @@ Participarão representantes de, no mínimo, 8 escolas convidadas.
 
 * Sistema eliminatório;
 * Uma equipe representante por escola;
-* Equipes compostas por 4 integrantes;
+* Equipes compostas por 4 integrantes (e reservista opcional);
 * Progressão até a fase final;
 * As duas equipes finalistas disputarão a partida decisiva para definição da campeã.
 
@@ -92,8 +92,18 @@ As partidas serão acompanhadas pela equipe organizadora para garantir um ambien
 ## Regras Gerais
 
 * Respeito obrigatório entre todos os participantes;
-* Proibido qualquer tipo de ofensa ou comportamento antidesportivo;
+* Proibido qualquer tipo de ofensa, assédio ou comportamento antidesportivo;
+* Proibido o uso de qualquer recurso externo que ofereça vantagem indevida (trapaça)
 * O descumprimento das regras poderá resultar em advertência ou desclassificação.
+
+Tabela de Punições:
+
+*__Leve: Advertência formal__ - Comportamento desrespeitoso isolado, atraso sem justificativa. Registrada no sistema; reincidência resulta em punição maior.
+*__Grave: Desclassificação da partida__ - Uso de macro, abandono intencional ou manipulação de resultado. A vitória é concedida automaticamente ao adversário.
+*__Gravíssimo: Eliminação do torneio__ - Uso de cheats/hacks confirmados ou conduta gravemente ofensiva. Sem possibilidade de recurso na edição corrente.
+*__Recorrente: Banimento permanente__ — Infração gravíssima reincidente ou tentativa de corrupção de resultados. Impedimento de participar de futuras edições do Unis eSports.
+
+Canal oficial para denúncias anônimas e seguras: __robson.santos@professor.unis.edu.br__
 
 ## Falhas Técnicas
 
@@ -137,9 +147,8 @@ O projeto foi desenvolvido por estudantes das áreas de:
 * Segurança e Conformidade;
 * UX/UI;
 * Desenvolvimento;
-* Marketing;
-* Documentação e Planejamento;
-* Organização de Eventos.
+* Comunicação e Transmissão;
+* Documentação e Gestão;
 
 ---
 
@@ -147,19 +156,20 @@ O projeto foi desenvolvido por estudantes das áreas de:
 
 * ClickUp (Gestão do Projeto)
 * GitHub (Versionamento)
+* Figma
 * Google Workspace
 * Canva
 * Microsoft Office
-* Ferramentas de Comunicação Digital
+* Ferramentas de Comunicação Digital (TikTok e Instagram)
 
 ---
 
 # Repositório
 
-Este repositório concentra toda a documentação, planejamento, materiais de divulgação, registros das atividades e demais artefatos produzidos durante o desenvolvimento do projeto Desafio UNIS eSports 2026.
+Este repositório concentra toda a documentação, planejamento, materiais de divulgação, registros das atividades e demais artefatos produzidos durante o desenvolvimento do projeto Desafio Unis eSports 2026.
 
 ---
 
 # Licença
 
-Projeto acadêmico desenvolvido para fins educacionais na Faculdade UNIS.
+Projeto acadêmico desenvolvido para fins educacionais na Faculdade Unis.
