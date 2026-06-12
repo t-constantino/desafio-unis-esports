@@ -51,21 +51,13 @@ Os participantes deverão levar seus próprios dispositivos móveis para partici
 
 ## Ciclo de Palestras
 
-Serão realizadas palestras multidisciplinares abordando temas como:
+Serão realizadas palestras multidisciplinares abordando os seguintes temas:
 
-### Segurança Digital
+* Psicologia dos games: Vício ou Hobby? - Palestra da professora Ana Caroline
 
-* Uso seguro da internet;
-* Proteção de dados pessoais;
-* Boas práticas no ambiente digital.
+* Educação Física: O corpo por trás das telas - Apresentação do TCC da aluna Lilian Farias do Nascimento.
 
-### Psicologia
-
-
-
-### Educação Física
-
-
+* Segurança Digital: Boas práticas e uso seguro da internet, riscos e proteção pessoal - Apresentação dos alunos da turma de ADS.
 
 ---
 
@@ -73,12 +65,11 @@ Serão realizadas palestras multidisciplinares abordando temas como:
 
 O campeonato será realizado utilizando o jogo Free Fire.
 
-Participarão representantes de, no mínimo, 8 escolas convidadas.
+Participarão no total 8 equipes convidadas.
 
 ## Formato da Competição
 
 * Sistema eliminatório;
-* Uma equipe representante por escola;
 * Equipes compostas por 4 integrantes (e reservista opcional);
 * Progressão até a fase final;
 * As duas equipes finalistas disputarão a partida decisiva para definição da campeã.
@@ -123,18 +114,18 @@ O prazo para a contestação dos resultados de uma partida será de 10 minutos a
 Equipe Campeã
 
 * R$ 1.000,00 em premiação.
-* 4 medalhas
+* 5 medalhas
 * 1 troféu
 
 Equipe em Segundo Lugar
 
 * R$ 500,00 em premiação.
-* 4 medalhas
+* 5 medalhas
 * 1 troféu
 
 Equipe em Terceiro Lugar
 
-* 4 medalhas
+* 5 medalhas
 * 1 troféu
 
 ---
@@ -156,11 +147,13 @@ O projeto foi desenvolvido por estudantes das áreas de:
 
 * ClickUp (Gestão do Projeto)
 * GitHub (Versionamento)
+* Node (Servidor do site)
+* Railway (Nuvem)
 * Figma
 * Google Workspace
 * Canva
 * Microsoft Office
-* Ferramentas de Comunicação Digital (TikTok e Instagram)
+* TikTok e Instagram (Comunicação digital)
 
 ---
 
