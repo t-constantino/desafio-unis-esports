@@ -34,7 +34,7 @@ As equipes deverão ser formadas previamente pelos próprios participantes.
 
 Cada equipe deverá possuir:
 
-* 4 jogadores titulares;
+* até 4 jogadores titulares;
 * 1 jogador reserva (opcional conforme disponibilidade da escola).
 
 Os participantes deverão levar seus próprios dispositivos móveis para participação no campeonato.
@@ -70,7 +70,7 @@ Participarão no total 8 equipes convidadas.
 ## Formato da Competição
 
 * Sistema eliminatório;
-* Equipes compostas por 4 integrantes (e reservista opcional);
+* Equipes compostas por, no máximo, 4 integrantes (e um reservista opcional);
 * Progressão até a fase final;
 * As duas equipes finalistas disputarão a partida decisiva para definição da campeã.
 
@@ -114,19 +114,14 @@ O prazo para a contestação dos resultados de uma partida será de 10 minutos a
 Equipe Campeã
 
 * R$ 1.000,00 em premiação.
-* 5 medalhas
-* 1 troféu
 
 Equipe em Segundo Lugar
 
 * R$ 500,00 em premiação.
-* 5 medalhas
-* 1 troféu
 
 Equipe em Terceiro Lugar
 
-* 5 medalhas
-* 1 troféu
+* vale de R$ 200,00 na lanchonete Ice e Burguer.
 
 ---
 
