@@ -43,13 +43,15 @@ Os participantes deverão levar seus próprios dispositivos móveis para partici
 
 # Programação
 
-## Abertura do Evento
+## Chegada dos participantes - 8h30
+
+## Abertura do Evento - 9h00
 
 * Recepção dos participantes;
 * Credenciamento das equipes;
 * Apresentação das regras gerais.
 
-## Ciclo de Palestras
+## Ciclo de Palestras - 9h15
 
 Serão realizadas palestras multidisciplinares abordando os seguintes temas:
 
@@ -58,6 +60,14 @@ Serão realizadas palestras multidisciplinares abordando os seguintes temas:
 * Educação Física: O corpo por trás das telas - Apresentação do TCC da aluna Lilian Farias do Nascimento.
 
 * Segurança Digital: Boas práticas e uso seguro da internet, riscos e proteção pessoal - Apresentação dos alunos da turma de ADS.
+
+## Preparação - 10h30
+
+Os participantes serão levados até a sala em que os jogos ocorrerão e serão transmitidos.
+
+## Início do campeonato - 11h00
+
+## Encerramento e divulgação dos vencedores - 11h45
 
 ---
 
