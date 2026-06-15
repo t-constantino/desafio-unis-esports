@@ -1,4 +1,4 @@
-Link do projeto no ClickUp da equipe: https://github.com/t-constantino/desafio-unis-esports
+Link do projeto no ClickUp da equipe: https://app.clickup.com/90171257252/v/li/901713953388
 
 Pasta da equipe no Drive (utilizada para a organização de anotações e rascunhos): https://drive.google.com/drive/folders/1BUW8VJMD8bcORU2nh_5EJiJBC6ANYqbO?usp=sharing
 
